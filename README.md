@@ -361,6 +361,7 @@
 - [claude-code-mcp-enhanced](https://github.com/grahama1970/claude-code-mcp-enhanced/blob/main/CLAUDE.md) by [grahama1970](https://github.com/grahama1970) - Provides detailed and emphatic instructions for Claude to follow as a coding agent, with testing guidance, code examples, and compliance checks.
 
 <br>
+- [Statsnet MCP](https://github.com/usenetstate/statsnet-mcp) by [usenetstate](https://github.com/usenetstate) - Background check any company in the world: registration, executives, courts and finances. Remote: `https://statsnet.co/mcp` · Registry: `io.github.usenetstate/statsnet`.
 
 ## Alternative Clients 📱
 
